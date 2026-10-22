@@ -1,0 +1,16 @@
+RETAIL DATA CLEANING REPORT
+========================================
+Original rows: 1,000,000
+Original columns: 9
+Exact duplicate rows removed: 2,933
+Rows removed for missing required data: 67,514
+Repeated transaction IDs removed: 0
+Invalid quantities identified: 4,925
+Invalid prices identified: 5,003
+Rows remaining: 929,553
+Columns after cleaning: 10
+Missing values remaining: 0
+Exact duplicates remaining: 0
+Repeated transaction IDs remaining: 0
+Total revenue: 557,649,692,622.96
+Cleaned dataset: C:\Users\enesp\OneDrive\Desktop\RetailDataCleaning\data\processed\retail_sales_clean.csv
