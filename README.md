@@ -1,6 +1,5 @@
 # 📊 Retail Sales Data Analytics
 
-
 An end-to-end retail sales analytics project built with **Python, Pandas, Matplotlib, and Streamlit**. This project demonstrates data cleaning, data quality validation, exploratory data analysis, visualization, and interactive dashboard development using a synthetic retail sales dataset.
 
 ## 🚀 Project Overview
